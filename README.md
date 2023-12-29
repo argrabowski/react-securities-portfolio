@@ -1,5 +1,7 @@
 ## Short Stack Securities Portfolio
 
+https://securities-portfolio-react.glitch.me
+
 My application is a stock, ETF, or index fund financial portfolio creator and manager. The site gathers information from the user about a security to produce a portfolio
 listing and attaches that item to the user's account. Information that the user must enter includes the name of the security, its ticker symbol, the exchange it is traded
 on, its perceived risk, its price in dollars, and the amount of shares that the user owns. The site produces a derived field that denotes the total dollar amount that the

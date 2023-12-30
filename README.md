@@ -1,4 +1,4 @@
-## Short Stack Securities Portfolio
+## React Securities Portfolio
 
 https://securities-portfolio-react.glitch.me
 
